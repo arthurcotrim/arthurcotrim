@@ -13,6 +13,7 @@ ___
 
 <p><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /></p>
 
+---
 ### Languages 
 <p><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></p>
 
@@ -24,7 +25,11 @@ ___
 
 <p><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></p>
 
-
-### Github Stats
-
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+  
 <img src="https://github-stats.arthurcotrim.vercel.app/api?username=arthurcotrim&show_icons=true&hide_border=true">
+
+</details>
+
