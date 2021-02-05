@@ -1,8 +1,10 @@
-### Hey there 🌀
+### Hey there, I'm Arthur 🌀
 
-## My name is Arthur and I am a Developer!
-- 
--
--
+## I am a Developer!
+- 💻 Creating & Practicing with new projects
+- 🥋 Learning about our code world
+- ☕ Let's go and code! 
+
+### Conect with me
 
 ### Languages and Tools
