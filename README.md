@@ -27,4 +27,4 @@ ___
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats-gca7mpkc4.vercel.app/api?username=arthurcotrim)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-stats.arthurcotrim.vercel.app/api?username=arthurcotrim&show_icons=true&hide_border=true">
