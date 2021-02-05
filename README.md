@@ -1,39 +1,31 @@
 ### Hey there, I'm Arthur 🌀
 
-## I am a Developer!
-- 💻 Creating & Practicing with new projects
+##  ☕ Let's go and code! 
+- 💻 Creating new projects
 - 🥋 Learning about our code world
-- ☕ Let's go and code! 
+- 🍿  Content Creator 
 
 ### Conect with me
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
 
-### Languages and Tools
+<br>
+<br>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+### Languages 
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jquery.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/csharp.svg" />
+<br>
+<br>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />
-
-
-[linkedin]:(https://www.linkedin.com/in/arthur-cotrim-711b681ab/)
-[instagram]:(https://www.instagram.com/acs_code/)
+[linkedin]:https://www.linkedin.com/in/arthur-cotrim-711b681ab/
+[youtube]:https://www.youtube.com/acs_code
