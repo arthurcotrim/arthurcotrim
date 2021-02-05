@@ -26,6 +26,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <br>
+  
 <img src="https://github-stats.arthurcotrim.vercel.app/api?username=arthurcotrim&show_icons=true&hide_border=true">
 </details>
 
