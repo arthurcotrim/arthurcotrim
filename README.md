@@ -9,3 +9,8 @@
 
 
 ### Languages and Tools
+
+
+### Github Stats
+ <img align="left" alt="arthurcotrim's Github Stats" src="https://github-readme-stats.arthurcotrim.vercel.app
+/api?username=arthurcotrim&show_icons=true&hide_border=true">
