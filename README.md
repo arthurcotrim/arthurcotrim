@@ -3,14 +3,16 @@
 ##  ☕ Let's go and code! 
 - 💻 Creating new projects
 - 🥋 Learning about our code world
-- 🍿  Content Creator 
+
+<!-- - 🍿  Content Creator  -->
 
 <details>
   <summary>:zap: Conect with me</summary>
 <br>
   
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
+<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
+-->
 </details>
 
 <details>
