@@ -1,37 +1,22 @@
-### Hey there, I'm Arthur 🌀
 
-##  ☕ Let's go and code! 
-- 💻 Creating new projects
-- 🥋 Learning about our code world
-
-<!-- - 🍿  Content Creator  -->
-
-<details>
-  <summary>:zap: Conect with me</summary>
-<br>
-  
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-<!-- [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
--->
-</details>
-
-<details>
-  <summary>:zap: Languages</summary>
-  <br>
-  
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <br>
-  
-<img src="https://github-stats.arthurcotrim.vercel.app/api?username=arthurcotrim&show_icons=true&hide_border=true">
-</details>
-
-[linkedin]:https://www.linkedin.com/in/arthur-cotrim-711b681ab/
-[youtube]:https://www.youtube.com/acs_code
+<div align="center">
+  <a href="https://github.com/arthurcotrim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcotrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcotrim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="arthur-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg">
+</div>
+   
+<div> 
+  <a href="https://instagram.com/arthurcotrim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoarthurcotrim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/arthurcotrim/arthurcotrim/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
